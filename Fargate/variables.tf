@@ -62,19 +62,3 @@ variable "private_subnets_sec" {
     "private_subnet_2" = 2
   }
 }
-
-
-variable "domain_name" {
-  default = "fejzic37.com"
-}
-variable "subdomain_name" {
-  default = "www.fejzic37.com"
-}
-
-variable "ContainerName" {
-  default = "app_container"
-}
-variable "ContainerImage" {
-  default = "876606637086.dkr.ecr.us-east-1.amazonaws.com/mfejzic:latest"
-}
-
