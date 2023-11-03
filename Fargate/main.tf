@@ -1360,9 +1360,3 @@ resource "aws_sns_topic_subscription" "sns_sec" {
   protocol  = "email"
   endpoint  = "muhazic3@gmail.com"
 }
-
-// new diagram
-// redesgin website
-// new resume
-// upload new code to github
-// post
